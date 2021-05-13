@@ -1,0 +1,48 @@
+body{
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  background-color: #f6f5f5;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+h1{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  font-family: 'Great Vibes', cursive;
+  color: blue;
+}
+
+.CSE{
+  position: absolute;
+  left: 650px;
+}
+.sun{
+  position: absolute;
+  top: 150px;
+  left: 300px;
+}
+.cloud{
+  position: absolute;
+  top: 250px;
+  right: 300px;
+}
+.m{
+  background-color: #d3e0ea;
+  height: 400px;
+  width: 600px;
+  margin-bottom: 0px;
+}
+.top{
+  background-color: #d3e0ea;
+  position: relative;
+  padding-top: 100px;
+}
+.middle{
+
+}
+.bottom{
+
+}
